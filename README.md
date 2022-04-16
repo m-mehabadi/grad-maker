@@ -1,2 +1,2 @@
 # grad-maker
-A method for generalizing multiple gradients into one
+A good method for generalizing multiple gradients into one
